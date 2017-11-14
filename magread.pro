@@ -1,1 +1,0 @@
-MagRead.pro
